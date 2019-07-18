@@ -1,4 +1,4 @@
-GaborPCANET
+
 
 The files are the MATLAB source code for the paper:
 
