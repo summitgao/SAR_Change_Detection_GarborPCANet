@@ -2,7 +2,7 @@
 
 The Matlab implementation of our paper:
 
-Feng Gao,  Junyu Dong, Bo Li, Qizhi Xu, Cui Xie. 
+Feng Gao,  Junyu Dong, Bo Li, Qizhi Xu. 
 
 Automatic Change Detection in Synthetic Aperture Radar Images Based on PCANet 
 
