@@ -1,16 +1,21 @@
 
 
-The files are the MATLAB source code for the paper:
+The Matlab implementation of our paper:
 
 Feng Gao,  Junyu Dong, Bo Li, Qizhi Xu, Cui Xie. 
 
 Automatic Change Detection in Synthetic Aperture Radar Images Based on PCANet 
 
-IEEE Geoscience and Remote Sensing Letters, vol. 13, no. 12, 2016.
+*IEEE Geoscience and Remote Sensing Letters*, vol. 13, no. 12, 2016.
 
 The demo has not been well organized. Please contact me if you meet any problems.
 
-Email: gaofeng@ouc.edu.cn
+**Please cite our paper if you use our codes. Thanks!**
+
+If you have any queries, please do not hesitate to contact me (gaofeng AT ouc.edu.cn).
+
+More codes can be obtained from http://feng-gao.cn
+
 
 注意事项：
 
