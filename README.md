@@ -6,7 +6,7 @@ Feng Gao,  Junyu Dong, Bo Li, Qizhi Xu, Cui Xie.
 
 Automatic Change Detection in Synthetic Aperture Radar Images Based on PCANet 
 
-IEEE Geoscience and Remote Sensing Letters, 13(12), 2016.
+IEEE Geoscience and Remote Sensing Letters, vol. 13, no. 12, 2016.
 
 The demo has not been well organized. Please contact me if you meet any problems.
 
